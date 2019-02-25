@@ -1,5 +1,5 @@
 # KEYHAN Front-end Kick Starter
-Kickstarter using Webpack for Front-end Development
+Kickstarter for Front-end Development
 
 # How to use
 
@@ -9,4 +9,4 @@ Kickstarter using Webpack for Front-end Development
 - `npm run prod` for Production
 
 
-www.KEYHAN.info
+Webpack, Sass, ES6, Babel, Laravel.mix, Karma, Angular.js, Angular-Route, Font-Awesome, Browser-sync, Image-optimization, JQuery, npm
